@@ -1,4 +1,4 @@
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 ## Midterm Self-Assessment Assignment
 
 ### What this is, why we do it
@@ -73,5 +73,4 @@ I will assign you single holistic grade of "above spec," "on spec," or "below sp
 -   Sentences sound like a human being speaking?
 
 -   Shows careful attention to editing and proofreading? 
- 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
