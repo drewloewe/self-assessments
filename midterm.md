@@ -10,12 +10,12 @@ This midterm self-assessment lets us (you, the student; me, the teacher) "check 
 ### How to do this
 
 *   Reread the [basic grading contract](https://github.com/drewloewe/grading-contract/blob/master/grading-contract.md).
-*   Open the Canvas gradebook and see what I have entered as your grades so far for work that has been completed.
+*   Open the Canvas gradebook and see what I have entered as your grades so far for work that has been completed. (Make sure that you reread the grading contract's sections that describe the compromises forced on us by the shortcomings of Canvas's lousy gradebook so you can truly understand what the grades mean.)
 *  [View your attendance information in Canvas](https://guides.instructure.com/m/4212/l/643081-how-do-i-view-my-roll-call-attendance-report-as-a-student).
-*  Beyond just reviewing grades and attendance, reread feedback I have given you on projects, as well as the assignments themselves.
-*  Make notes on what you observe.
-*  Reflect on your approach to the course, and your performance so far. Are you meeting your goals? Exceeding them? Not meeting them? What have you done and what can you do differently?
-*  Then, answer the questions of this self-assessment assignment as fully and honestly as you can. Remember the power of specific pointing phrases such as "For example,...", In particular,...", "What stands out the most is...", and the like.
+*  Beyond just reviewing grades and attendance, **reread feedback I have given you on projects, as well as the assignments themselves**.
+Make notes on what you observe in those rereadings.
+*  Reflect on your approach to the course and your performance so far. Are you meeting your goals? Exceeding them? Not meeting them? What have you done so far and what might you do differently?
+*  Then, answer the questions of this self-assessment assignment as fully and honestly as you can. **Remember the power of specific pointing phrases such as "For example,...", In particular,...", "What stands out the most is...", and the like.** Specifics count.
 *  You'll need about 300 words per paragraph (so, about 900 words total) to do this project completely yet concisely.
 * Note: you will see a percentage grade in Canvas because the attendance feature works only with percentages. That percentage shows the percentage of class meetings that you have attended so far. **Don't be misled into thinking that the percentage for attendance is your current course grade progress. Your course grade depends on performance (or non-performance) of the grading contract.**
 
@@ -70,7 +70,7 @@ I will assign you single holistic grade of "above spec," "on spec," or "below sp
 
     -   *Tip: Please refer to [my error and usage guide on GitHub](https://github.com/drewloewe/editing-and-formatting-guide/blob/master/advice-on-errors-and-usage.md).*
 
--   Sentences sound like a human being speaking in [http://drewloewe.net/prose-style/](a middle-level style between formal and informal)?
+-   Sentences sound like a human being speaking in [a middle-level style between formal and informal]([http://drewloewe.net/prose-style/])?
 
 -   Shows careful attention to editing and proofreading? 
 
