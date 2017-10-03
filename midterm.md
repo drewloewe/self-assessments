@@ -9,7 +9,7 @@ This midterm self-assessment lets us (you, the student; me, the teacher) "check 
 
 ### How to do this
 
-*   Reread the [basic grading contract](https://github.com/drewloewe/grading-contract/blob/master/grading-contract.md).
+*   Reread the [basic grading contract](https://github.com/drewloewe/grading-contract/blob/master/grading-contract.md) so that you understand the approach that this course uses. 
 *   Open the Canvas gradebook and see what I have entered as your grades so far for work that has been completed. (Make sure that you reread the grading contract's sections that describe the compromises forced on us by the shortcomings of Canvas's lousy gradebook so you can truly understand what the grades mean.)
 *  [View your attendance information in Canvas](https://guides.instructure.com/m/4212/l/643081-how-do-i-view-my-roll-call-attendance-report-as-a-student).
 *  Beyond just reviewing grades and attendance, **reread feedback I have given you on projects, as well as the assignments themselves**.
