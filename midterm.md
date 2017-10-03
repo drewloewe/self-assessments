@@ -65,8 +65,8 @@ I will assign you single holistic grade of "above spec," "on spec," or "below sp
 -   Unhampered by 
 
     -   disruptive errors (e.g. comma splice, fused sentence, sentence fragment), 
-    - careless errors (e.g., dropped quotes, typos, it’s/its), 
-    - and mere mistakes (e.g., repeated words, typos?)
+    - careless errors (e.g., dropped quotes, typos, it’s/its), and
+    - mere mistakes (e.g., repeated words, typos?)
 
     -   *Tip: Please refer to [my error and usage guide on GitHub](https://github.com/drewloewe/editing-and-formatting-guide/blob/master/advice-on-errors-and-usage.md).*
 
