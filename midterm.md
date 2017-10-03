@@ -32,10 +32,10 @@ Please answer all of these questions in one paragraph per section, using these s
 
 **2. Performance** 
 
-*   Did you complete all the assignments and do all the quizzes and activities? 
+* Have you completed all the assignments and done all the quizzes and activities? 
 * How has your performance been so far? Are you on track to earn a B under the basic contract? 
 * How, if at all, have you improved as a writer so far? 
-* What specific strategies have you used to find a way through confusion, hang-ups, procrastination, your workload and life outside of class, lack of experience, or unfamiliarity with the work?
+* What specific strategies have you used to find a way through confusion, hang-ups, procrastination, your workload and life outside of class, lack of experience, or unfamiliarity with the work? These might include using the Writing Center, coming to my office, asking me questions, and other strategies too numerous to name here.
 
 
 **3. Ownership of Learning**
@@ -70,7 +70,7 @@ I will assign you single holistic grade of "above spec," "on spec," or "below sp
 
     -   *Tip: Please refer to [my error and usage guide on GitHub](https://github.com/drewloewe/editing-and-formatting-guide/blob/master/advice-on-errors-and-usage.md).*
 
--   Sentences sound like a human being speaking?
+-   Sentences sound like a human being speaking in [http://drewloewe.net/prose-style/](a middle-level style between formal and informal)?
 
 -   Shows careful attention to editing and proofreading? 
 
