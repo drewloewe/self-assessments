@@ -51,7 +51,7 @@ Please answer all of these questions in one new paragraph per section, preceded 
 | Above spec |  On spec | Below spec |
 |------------| --------- |-----------|
 
-I will assign you single holistic grade of "above spec," "on spec," or "below spec" on this project based on your overall performance on the following criteria:
+Without feedback (given the university's tight deadline for turning in grades), I will assign you single holistic grade of "above spec," "on spec," or "below spec" on this project based on your overall performance on the following criteria:
 
 ### Content and Focus
 
