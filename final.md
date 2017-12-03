@@ -11,15 +11,17 @@ This final self-assessment lets us (you, the student; me, the teacher) "check in
 * 	Open the Canvas gradebook and see what I have entered as your grades so far. This work includes major written assignments, peer review, quizzes, activities, etc. It will also include assignments that are still eligible for revision. 
 *  [View your attendance information in Canvas](https://guides.instructure.com/m/4212/l/643081-how-do-i-view-my-roll-call-attendance-report-as-a-student).
 *  Beyond just reviewing grades and attendance, reread feedback I have given you on projects, as well as the assignments themselves.
-*  Make notes on what you observe.
+*  Make notes on what you observe. A self-assessment that ignores the feedback I have given gets a guaranteed "below-spec" grade.
 *  Reflect on your approach to the course, and your performance over the semester. Did you meet your goals? Exceed them? Not meet them? Overcome challenges? Self-sabotage? What did you do and what will you do in the future?
 *  Then, answer the questions of this self-assessment assignment as fully and honestly as you can. Remember the power of specific pointing phrases such as "For example,...", In particular,...", "What stands out the most is...", and the like.
 *  You'll need about 300 words per new paragraph (so, about 900 new words total) to do this project completely yet concisely. **Here is why I use the term "new" paragraphs: you'll include, verbatim, your original paragraphs from the midterm self-assessment into this document, then write your new paragraphs answering the same questions from the point of view of having completed the semester.** Make your document look like [this example](https://stedwards.box.com/s/wu1vfvge4rw0jny4avtqvk2xpyo91nbj). You might even use that as a template.
 * Note: you will see a percentage grade in Canvas because the attendance feature works only with percentages. That percentage shows the percentage of class meetings that you have attended so far. **Don't be misled into thinking that the percentage for attendance is your current course grade progress. Your course grade depends on performance (or non-performance) of the grading contract.**
 
-### Required Questions of Assignment
+### Required Questions of Assignment: Respond to Your Midterm Self-Assessment
 
-Please answer all of these questions in one new paragraph per section, preceded by the text that you wrote for that section in the midterm self-assessment. Be sure to include, verbatim, your paragraph from the midterm self-assessment for that section (see the template). **Use these specific headings** to label the sections and **answer these questions**:
+*   Please answer all of these questions in one new paragraph per section, **preceded by the text that you wrote for that section in the midterm self-assessment.** 
+
+*   Be sure to include, verbatim, your paragraph from the midterm self-assessment for that section (see the template). **Use these specific headings** to label the sections and **answer these questions**:
 
 **1. Expectations and Goals** 
 
