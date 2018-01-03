@@ -54,7 +54,7 @@ This final self-assessment lets us (you, the student; me, the teacher) "check in
 | Above spec-3 |  On spec-2 | Below spec-1 | Not Completed-0 |
 |------------| --------- |-----------|-----------|
 
-Without feedback (given the university's tight deadline for turning in grades), I will assign you single holistic grade of "above spec," "on spec," or "below spec" on this project based on your overall performance on the following criteria:
+Without feedback (given the university's tight deadline for turning in grades), I will assign you single holistic grade on this project based on your overall performance on the following criteria:
 
 ### Content and Focus
 
