@@ -49,10 +49,10 @@ Please answer all of these questions in one paragraph per section, using these s
 
 ### Specifications
 
-| Above spec |  On spec | Below spec |
-|------------| --------- |-----------|
+| Above spec-3 |  On spec-2 | Below spec-1 | Not completed-0 |
+|------------| --------- |-----------|-----------|
 
-I will assign you single holistic grade of "above spec," "on spec," or "below spec" on this project based on your overall performance on the following criteria:
+I will assign you single holistic grade on this project based on your overall performance on the following criteria:
 
 ### Content and Focus
 
