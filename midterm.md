@@ -70,7 +70,7 @@ I will assign you single holistic grade on this project based on your overall pe
 
     -   *Tip: Please refer to [my error and usage guide on GitHub](https://github.com/drewloewe/editing-and-formatting-guide/blob/master/advice-on-errors-and-usage.md).*
 
--   Sentences sound like a human being speaking in [a middle-level style between formal and informal](http://drewloewe.net/prose-style/))?
+-   Sentences sound like a human being speaking in [a middle-level style between formal and informal](http://drewloewe.net/prose-style/)?
 
 -   Shows careful attention to editing and proofreading? 
 
