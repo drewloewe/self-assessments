@@ -42,7 +42,7 @@ This final self-assessment lets us (you, the student; me, the teacher) "check in
 **3. Ownership of Learning**
 
 *	Did you come to class regularly, on time, and prepared? If so, how consistent were you? Did you find ways to improve in this way?
-*	Did you made specific note of problems and questions to bring them to class to share?
+*	Did you made specific notes about problems and questions to bring them to class to share?
 * Did you seek guidance outside of the classroom (office visits, Writing Center, other)? If so, what, and how consistently? How did that help (or not help)?
 * Which specific areas did you want to improve on in this class?
 * What was your concrete, specific plan to improve in those areas during the second half of the class? How did you do?
