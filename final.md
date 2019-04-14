@@ -34,7 +34,7 @@ This final self-assessment lets us (you, the student; me, the teacher) "check in
 **2. Performance** 
 
 *	Did you complete all the assignments and do all the quizzes and activities? 
-* How was your performance? Did you meet the expectations for a B under the basic contract? Exceed them? You can argue that your performance met a certain grade level, *if you support your arguments*. Just stating a general wish for a certain grade or identifying as a certain kind of student who usually receives X type of grade is not an argument. But you get to give an informed opinion as a grownup. I will consider your supported arguments (I am not bound by them, but I will at least consider them, if supported).
+* How was your performance? Did you meet the expectations for a B under the basic contract? Exceed them? **You can argue for a particular overall course grade, *if you support your arguments*. Just stating a general wish for a certain grade or identifying as a certain kind of student who usually receives X type of grade are not arguments. But you get to give an informed opinion as a grownup. I will consider your supported arguments (I am not bound by them, but I will at least consider them, if supported).
 * How, if at all, did you improve as a writer? 
 * What specific strategies did you use to find a way through confusion, hang-ups, procrastination, your workload and life outside of class, lack of experience, or unfamiliarity with the work?
 
