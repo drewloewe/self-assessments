@@ -14,7 +14,7 @@ This final self-assessment lets us (you, the student; me, the teacher) "check in
 *  Make notes on what you observe. A self-assessment that ignores the feedback I have given gets a guaranteed "below-spec" grade.
 *  Reflect on your approach to the course, and your performance over the semester. Did you meet your goals? Exceed them? Not meet them? Overcome challenges? Self-sabotage? What did you do and what will you do in the future?
 *  Then, answer the questions of this self-assessment assignment as fully and honestly as you can. Remember the power of specific pointing phrases such as "For example,...", In particular,...", "What stands out the most is...", and the like.
-*  Discuss all your work, not just the work on the major assignments (so, peer review and other features of the course)
+*  Discuss all your work, not just the work on the major assignments (so, peer review and other features of the course). 
 *  You'll need about 300 words per new paragraph (so, about 900 new words total) to do this project completely yet concisely. **Here is why I use the term "new" paragraphs: you'll include, verbatim, your original paragraphs from the midterm self-assessment into this document, then write your new paragraphs answering the same questions from the point of view of having completed the semester.** Make your document look like [this example](https://stedwards.box.com/s/wu1vfvge4rw0jny4avtqvk2xpyo91nbj). You might even use that as a template.
 * Note: you will see a percentage grade in Canvas because the attendance feature works only with percentages. That percentage shows the percentage of class meetings that you have attended so far. **Don't be misled into thinking that the percentage for attendance is your current course grade progress. Your course grade depends on performance (or non-performance) of the grading contract.**
 
@@ -34,7 +34,7 @@ This final self-assessment lets us (you, the student; me, the teacher) "check in
 **2. Performance** 
 
 *	Did you complete all the assignments and do all the quizzes and activities? 
-* How was your performance? Did you meet the expectations for a B under the basic contract? 
+* How was your performance? Did you meet the expectations for a B under the basic contract? Exceed them? You can argue that your performance met a certain grade level, *if you support your arguments*. Just stating a general wish for a certain grade or identifying as a certain kind of student who usually receives X type of grade is not an argument. But you get to give an informed opinion as a grownup. I will consider your supported arguments (I am not bound by them, but I will at least consider them, if supported).
 * How, if at all, did you improve as a writer? 
 * What specific strategies did you use to find a way through confusion, hang-ups, procrastination, your workload and life outside of class, lack of experience, or unfamiliarity with the work?
 
