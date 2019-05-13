@@ -6,10 +6,10 @@ This final self-assessment lets us (you, the student; me, the teacher) "check in
 
 ### How to do this
 
-*	Reread the [basic grading contract](https://github.com/drewloewe/grading-contract/blob/master/grading-contract.md).
+*	Reread the [basic grading contract](https://github.com/drewloewe/grading-contract/blob/master/grading-contract-Summer19-and-later.md).
 * Reread your midterm self-assessment.
 * 	Open the Canvas gradebook and see what I have entered as your grades so far. This work includes major written assignments, peer review, quizzes, activities, etc. It will also include assignments that are still eligible for revision. 
-*  [View your attendance information in Canvas](https://guides.instructure.com/m/4212/l/643081-how-do-i-view-my-roll-call-attendance-report-as-a-student).
+* In F2F courses, [view your attendance information in Canvas](https://guides.instructure.com/m/4212/l/643081-how-do-i-view-my-roll-call-attendance-report-as-a-student).
 *  Beyond just reviewing grades and attendance, reread feedback I have given you on projects, as well as the assignments themselves.
 *  Make notes on what you observe. A self-assessment that ignores the feedback I have given gets a guaranteed "below-spec" grade.
 *  Reflect on your approach to the course, and your performance over the semester. Did you meet your goals? Exceed them? Not meet them? Overcome challenges? Self-sabotage? What did you do and what will you do in the future?
