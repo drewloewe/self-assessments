@@ -10,7 +10,7 @@ This midterm self-assessment lets us (you, the student; me, the teacher) "check 
 ### How to do this
 
 *   Reread the [basic grading contract](https://github.com/drewloewe/grading-contract/blob/master/grading-contract-Summer19-and-later.md) so that you understand the approach that this course uses. 
-*   Open the Canvas gradebook and see what I have entered as your grades so far for work that has been completed. (Make sure that you reread the grading contract's sections that describe the compromises forced on us by the shortcomings of Canvas's lousy gradebook so you can truly understand what the grades mean.)
+*   Open the Canvas gradebook and see what I have entered as your grades so far for work that has been completed. (Make sure that you reread the grading contract's sections that describe the compromises forced on us by the shortcomings of Canvas's lousy gradebook so you can truly understand what the grades mean.) This will be only a snapshot at this point, because you will have projects and activities upcoming, and projects may be pending revision. 
 *  In F2F courses, view your attendance information in Canvas.
 *  Beyond just reviewing grades and attendance, **reread feedback I have given you on projects, as well as the assignments themselves**.
 Make notes on what you observe in those rereadings.
