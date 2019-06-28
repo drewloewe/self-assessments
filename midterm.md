@@ -40,11 +40,11 @@ Please answer all of these questions in one paragraph per section, using these s
 
 **3. Ownership of Learning**
 
-*   Have you been coming to class regularly, on time, and prepared? Have you taken proactive steps to avoid distractions, such as social media or texting (except for emergencies) during class time? If so, how consistent were you? Have you found ways to improve so far?
+*   Have you been coming to class regularly, on time, and prepared? Have you taken proactive steps to avoid distractions, such as social media or texting (except for emergencies) during class time (in F2F classes) or work time? If so, how consistent were you? Have you found ways to improve so far?
 *   Have you made specific note of any problems and questions and brought them to class to share?
-* Have you sought guidance outside of the classroom (office visits, Writing Center, other)? If so, what, and how consistently? How has that helped, or not?
+* Have you sought guidance outside of the classroom (office/Zoom visits, Writing Center, other)? If so, what, and how consistently? How has that helped, or not?
 * Which specific areas do you want to improve on in this class?
-* What is your concrete, specific plan to improve in those areas during the second half of the class?
+* What is your concrete, specific plan to improve in those areas during the rest of the class?
 
 
 ### Specifications
