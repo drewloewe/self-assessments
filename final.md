@@ -8,7 +8,7 @@ This final self-assessment lets us (you, the student; me, the teacher) "check in
 
 *	Reread the [basic grading contract](https://github.com/drewloewe/grading-contract/blob/master/grading-contract-Summer19-and-later.md).
 * Reread your midterm self-assessment.
-* 	Open the Canvas gradebook and see what I have entered as your grades so far. This work includes major written assignments, peer review, quizzes, activities, etc. It will also include assignments that are still eligible for revision. 
+* 	Open the Canvas gradebook and see what I have entered as your grades so far. This work includes major written assignments, peer review, quizzes, activities, etc. It will also include assignments that are still eligible for revision, so it is still a snapshot.
 * In F2F courses, [view your attendance information in Canvas](https://guides.instructure.com/m/4212/l/643081-how-do-i-view-my-roll-call-attendance-report-as-a-student).
 *  Beyond just reviewing grades and attendance, reread feedback I have given you on projects, as well as the assignments themselves.
 *  Make notes on what you observe. A self-assessment that ignores the feedback I have given gets a guaranteed "below-spec" grade.
@@ -16,7 +16,7 @@ This final self-assessment lets us (you, the student; me, the teacher) "check in
 *  Then, answer the questions of this self-assessment assignment as fully and honestly as you can. Remember the power of specific pointing phrases such as "For example,...", In particular,...", "What stands out the most is...", and the like.
 *  Discuss all your work, not just the work on the major assignments (so, peer review and other features of the course). 
 *  You'll need about 300 words per new paragraph (so, about 900 new words total) to do this project completely yet concisely. **Here is why I use the term "new" paragraphs: you'll include, verbatim, your original paragraphs from the midterm self-assessment into this document, then write your new paragraphs answering the same questions from the point of view of having completed the semester.** Make your document look like [this example](https://stedwards.box.com/s/wu1vfvge4rw0jny4avtqvk2xpyo91nbj). You might even use that as a template.
-* Note: you will see a percentage grade in Canvas because the attendance feature works only with percentages. That percentage shows the percentage of class meetings that you have attended so far. **Don't be misled into thinking that the percentage for attendance is your current course grade progress. Your course grade depends on performance (or non-performance) of the grading contract.**
+* Note: In F2F classes, you might see a percentage grade in Canvas because the built-in attendance feature works only with percentages. That percentage shows the percentage of class meetings that you have attended so far. **Don't be misled into thinking that the percentage for attendance is your current course grade progress. Your course grade depends on performance (or non-performance) of the grading contract.**
 
 ### Required Questions of Assignment: Respond to Your Midterm Self-Assessment
 
@@ -41,9 +41,9 @@ This final self-assessment lets us (you, the student; me, the teacher) "check in
 
 **3. Ownership of Learning**
 
-*	Did you come to class regularly, on time, and prepared? If so, how consistent were you? Did you find ways to improve in this way?
-*	Did you made specific notes about problems and questions to bring them to class to share?
-* Did you seek guidance outside of the classroom (office visits, Writing Center, other)? If so, what, and how consistently? How did that help (or not help)?
+*	Did you come to class (F2F classes) and participate (all classes) regularly, on time, and prepared? If so, how consistent were you? Did you find ways to improve in this way?
+*	Did you made specific notes about problems and questions and bring them to class to share (F2F classes)/share them electronically (online classes)?
+* Did you seek guidance outside of the classroom (office visits, Zoom hours, Writing Center, other)? If so, what, and how consistently? How did that help (or not help)?
 * Which specific areas did you want to improve on in this class?
 * What was your concrete, specific plan to improve in those areas during the second half of the class? How did you do?
 * What will you carry forward out of this class into the future? 
