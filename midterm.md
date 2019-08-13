@@ -59,18 +59,9 @@ I will assign you single holistic grade on this project based on your overall pe
 *   All questions answered fully and clearly, with specifics?
 *  Abundant evidence of digging into the questions, not just going through the motions?
 
-### Form and Mechanics
+### Form, Mechanics, Voice, Usage
 
-
--   Unhampered by 
-
-    -   disruptive errors (e.g. comma splice, fused sentence, sentence fragment), 
-    - careless errors (e.g., dropped quotes, typos, it’s/its), and
-    - mere mistakes (e.g., repeated words, typos?)
-
-    -   *Tip: Please refer to [my error and usage guide on GitHub](https://github.com/drewloewe/editing-and-formatting-guide/blob/master/advice-on-errors-and-usage.md).*
-
--   Sentences sound like a human being speaking in [a middle-level style between formal and informal](http://drewloewe.net/prose-style/)?
-
--   Shows careful attention to editing and proofreading? 
+*   Shows careful attention throughout to editing and proofreading. Unhampered by disruptive errors (e.g. comma splice, fused sentence, subject-verb glitches), careless errors (e.g., dropped quotes, it's/its), or mere mistakes (e.g., repeated/missing words, typos).
+*   Voice: The sentences throughout sound like a human being communicating something interesting to an equal. Sentences sound like a human being speaking in [a middle-level style between formal and informal](http://drewloewe.net/prose-style/)?
+*   Usage: shows careful attention to usage judgments throughout, including those listed [here](https://github.com/drewloewe/editing-and-formatting-guide/blob/master/advice-on-errors-and-usage.md).
 
