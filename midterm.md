@@ -1,6 +1,8 @@
 
 ## Midterm Self-Assessment Assignment
 
+**Please submit as a PDF that conforms to [my PDF formatting rules](http://drewloewe.net/electronic-document-formatting-rules/).**
+
 ### What this is, why we do it
 
 I use contract grading and specifications, not points or percentages. I am trying to encourage students to take charge of their own learning, to focus on improving as writers, and to develop and strengthen behaviors that correlate with success. 
