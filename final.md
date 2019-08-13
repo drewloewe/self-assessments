@@ -1,5 +1,7 @@
 ## Final Self-Assessment Assignment
 
+**Please submit as a PDF that conforms to [my PDF formatting rules](http://drewloewe.net/electronic-document-formatting-rules/).**
+
 ### What this is, why we do it
 
 This final self-assessment lets us (you, the student; me, the teacher) "check in with" each other again on your intellectual and skill growth, to identify lessons learned, and see what you might carry into the future. I use this assignment as a way of seeing whether your perception and my perception match, and to help tailor my guidance and evaluation. 
