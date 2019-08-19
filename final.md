@@ -53,19 +53,22 @@ This final self-assessment lets us (you, the student; me, the teacher) "check in
 
 ### Specifications
 
-| Above spec-3 |  On spec-2 | Below spec-1 | Not Completed-0 |
-|------------| --------- |-----------|-----------|
-
 Without feedback (given the university's tight deadline for turning in grades), I will assign you single holistic grade on this project based on your overall performance on the following criteria:
 
-### Content and Focus
+### Specifications
 
-*	All questions answered fully and clearly, with specifics?
-*  Abundant evidence of digging into the questions, not just going through the motions?
-*  If an argument for a particular overall course grade is presented, that argument is backed up by reasons and evidence?
+I will assign you single holistic grade on this project based on your overall performance on the following criteria and using a simple binary scale:
 
-### Form, Mechanics, Voice, Usage
+&#10004; Complete
 
-*   Shows careful attention throughout to editing and proofreading. Unhampered by disruptive errors (e.g. comma splice, fused sentence, subject-verb glitches), careless errors (e.g., dropped quotes, it's/its), or mere mistakes (e.g., repeated/missing words, typos).
-*   Voice: The sentences throughout sound like a human being communicating something interesting to an equal. Sentences sound like a human being speaking in [a middle-level style between formal and informal](http://drewloewe.net/prose-style/)?
-*   Usage: shows careful attention to usage judgments throughout, including those listed [here](https://github.com/drewloewe/editing-and-formatting-guide/blob/master/advice-on-errors-and-usage.md).
+*   All questions answered fully and clearly, with specifics and support for observations or generalizations?
+*  Abundant evidence of the writer digging into the questions and providing a thoughtful, detailed reflection on an adult learning experience?
+* If an argument for a particular overall course grade is presented, that argument is backed up by reasons and evidence?
+*   Careful attention throughout to editing and proofreading. Unhampered by disruptive errors (e.g. comma splice, fused sentence, subject-verb glitches), careless errors (e.g., dropped quotes, it's/its), or mere mistakes (e.g., repeated/missing words, typos).
+*   The sentences throughout sound like a human being communicating something interesting to an equal. Sentences sound like a human being speaking in [a middle-level style between formal and informal](http://drewloewe.net/prose-style/)?
+*   Shows careful attention to usage judgments throughout, including those listed [here](https://github.com/drewloewe/editing-and-formatting-guide/blob/master/advice-on-errors-and-usage.md).
+
+&#10008; Incomplete
+
+* Not turned in, or turned in but without meeting specifications
+
