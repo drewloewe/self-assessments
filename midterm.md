@@ -51,19 +51,23 @@ Please answer all of these questions in one paragraph per section, using these s
 
 ### Specifications
 
-| Above spec-3 |  On spec-2 | Below spec-1 | Not completed-0 |
-|------------| --------- |-----------|-----------|
+I will assign you single holistic grade on this project based on your overall performance on the following criteria and using a simple binary scale:
 
-I will assign you single holistic grade on this project based on your overall performance on the following criteria:
+&#10004; Complete
 
-### Content and Focus
+*   All questions answered fully and clearly, with specifics and support for observations or generalizations?
+*  Abundant evidence of the writer digging into the questions and providing a thoughtful, detailed reflection on an adult learning experience?
+*   Careful attention throughout to editing and proofreading. Unhampered by disruptive errors (e.g. comma splice, fused sentence, subject-verb glitches), careless errors (e.g., dropped quotes, it's/its), or mere mistakes (e.g., repeated/missing words, typos).
+*   The sentences throughout sound like a human being communicating something interesting to an equal. Sentences sound like a human being speaking in [a middle-level style between formal and informal](http://drewloewe.net/prose-style/)?
+*   Shows careful attention to usage judgments throughout, including those listed [here](https://github.com/drewloewe/editing-and-formatting-guide/blob/master/advice-on-errors-and-usage.md).
 
-*   All questions answered fully and clearly, with specifics?
-*  Abundant evidence of digging into the questions, not just going through the motions?
+&#10008; Incomplete
 
-### Form, Mechanics, Voice, Usage
+* Not turned in, or turned in but without meeting specifications
 
-*   Shows careful attention throughout to editing and proofreading. Unhampered by disruptive errors (e.g. comma splice, fused sentence, subject-verb glitches), careless errors (e.g., dropped quotes, it's/its), or mere mistakes (e.g., repeated/missing words, typos).
-*   Voice: The sentences throughout sound like a human being communicating something interesting to an equal. Sentences sound like a human being speaking in [a middle-level style between formal and informal](http://drewloewe.net/prose-style/)?
-*   Usage: shows careful attention to usage judgments throughout, including those listed [here](https://github.com/drewloewe/editing-and-formatting-guide/blob/master/advice-on-errors-and-usage.md).
+
+
+
+
+
 
