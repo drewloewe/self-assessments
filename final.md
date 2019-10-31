@@ -49,7 +49,11 @@ This final self-assessment lets us (you, the student; me, the teacher) "check in
 * What was your concrete, specific plan to improve in those areas during the second half of the class? How did you do in carrying out that plan?
 * What will you carry forward out of this class into the future? 
 
-### Optional Section: Grade Argument
+### Optional Section: Grade Argument (Include if you wish--no obligation)
+
+Here, you may make a reasonable, supported argument to me about what overall course grade you believe is warranted. I do want to hear from you since I try to defer ultimate assigning of a course grade until I have all the evidence and your input as a grownup.
+
+I am not bound by your arguments, but I will consider them if they are supported. Here, argument = reasonable claim + sufficient evidence + warranted inferences. Wishes, mere pleas, and schmoozing are not arguments. This is your chance to show me the full picture beyond my own recollections, comments, and gradebook and to use the in-between grades meaningfully. Make this section, if you choose to submit it, work hand-in-hand with the rest of the final self-assessment. I cannot promise you a specific grade, but I can promise you that I will at least listen to well-supported arguments.
 
 ### Specifications
 
@@ -57,9 +61,8 @@ Without feedback (given the university's tight deadline for turning in grades), 
 
 &#10004; Complete
 
-*   All questions answered fully and clearly, with specifics and support for observations or generalizations?
+*   All required questions answered fully and clearly, with specifics and support for observations or generalizations?
 *  Abundant evidence of the writer digging into the questions and providing a thoughtful, detailed reflection on an adult learning experience?
-* If an argument for a particular overall course grade is presented, is that argument backed up by reasons and evidence?
 *   Careful attention throughout to editing and proofreading. Unhampered by disruptive errors (e.g. comma splice, fused sentence, subject-verb glitches), careless errors (e.g., dropped quotes, it's/its), or mere mistakes (e.g., repeated/missing words, typos).
 *   The sentences throughout sound like a human being communicating something interesting to an equal. Sentences sound like a human being speaking in [a middle-level style between formal and informal](http://drewloewe.net/prose-style/)?
 *   Shows careful attention to usage judgments throughout, including those listed [here](https://github.com/drewloewe/editing-and-formatting-guide/blob/master/advice-on-errors-and-usage.md).
