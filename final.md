@@ -49,6 +49,7 @@ This final self-assessment lets us (you, the student; me, the teacher) "check in
 * What was your concrete, specific plan to improve in those areas during the second half of the class? How did you do in carrying out that plan?
 * What will you carry forward out of this class into the future? 
 
+### Optional Section: Grade Argument
 
 ### Specifications
 
