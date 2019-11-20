@@ -25,22 +25,22 @@ This final self-assessment lets us (you, the student; me, the teacher) "check in
 
 *   Be sure to include, verbatim, your paragraph from the midterm self-assessment for that section (see the template). **Use these specific headings** to label the sections and **answer these questions**:
 
-**1. Expectations and Goals** 
+**1. Required: Expectations and Goals** 
 
 * 	What, specifically, were your goals for the course? 
 * 	How did your approach to the course help you learn what you expected to learn and achieve your goals?
 *	What, specifically, did you learn in this course? 
 
 
-**2. Performance** 
+**2. Required: Performance** 
 
 *	Did you complete all the assignments and do all the quizzes and activities? 
-* How was your performance? Did you meet the expectations for a B under the basic contract? Exceed them? **You can argue for a particular overall course grade, *if you support your arguments*. Just stating a general wish for a certain grade or identifying as a certain kind of student who usually receives X type of grade are not arguments. But you get to give an informed opinion as a grownup. I will consider your supported arguments (I am not bound by them, but I will at least consider them, if supported).
+* How was your performance? Did you meet the expectations for a B under the basic contract? Exceed them? 
 * How, if at all, did you improve as a writer, thinker, editor, analyst, researcher, or arguer? 
 * What specific strategies did you use to find a way through confusion, hang-ups, procrastination, your workload and life outside of class, lack of experience, or unfamiliarity with the work?
 
 
-**3. Ownership of Learning**
+**3. Required: Ownership of Learning**
 
 *	Did you come to class prepared (F2F classes) and participate (all classes) regularly? If so, how consistent were you? Did you find ways to improve in this way?
 *	Did you made specific notes about problems and questions and bring them to class to share (F2F classes)/share them electronically (online classes)?
@@ -52,6 +52,8 @@ This final self-assessment lets us (you, the student; me, the teacher) "check in
 ### Optional Section: Grade Argument (Include if you wish--no obligation)
 
 Here, you may make a reasonable, supported argument to me about what overall course grade you believe is warranted. I do want to hear from you since I try to defer ultimate assigning of a course grade until I have all the evidence and your input as a grownup.
+
+Argue for a particular overall course grade and *support your arguments*. Just stating a general wish for a certain grade or identifying as a certain kind of student who usually receives X type of grade are not arguments. But you get to give an informed opinion as a grownup. I will consider your supported arguments (I am not bound by them, but I will at least consider them, if supported).
 
 I am not bound by your arguments, but I will consider them if they are supported. Here, argument = reasonable claim + sufficient evidence + warranted inferences. Wishes, mere pleas, and schmoozing are not arguments. This is your chance to show me the full picture beyond my own recollections, comments, and gradebook and to use the in-between grades meaningfully. Make this section, if you choose to submit it, work hand-in-hand with the rest of the final self-assessment. I cannot promise you a specific grade, but I can promise you that I will at least listen to well-supported arguments.
 
