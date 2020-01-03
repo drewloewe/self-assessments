@@ -5,14 +5,14 @@
 
 ### What this is, why we do it
 
-I use contract grading and specifications, not points or percentages. I am trying to encourage students to take charge of their own learning, to focus on improvement, and to develop and strengthen behaviors that correlate with success. 
+I am trying to encourage students to take charge of their own learning, to focus on improvement, and to develop and strengthen behaviors that correlate with success. 
 
 This midterm self-assessment lets us (you, the student; me, the teacher) "check in with" each other on how you are doing so far, to identify lessons learned, and plan for the future. I use this assignment as a way of seeing whether your perception and my perception match, and to help tailor my guidance to you. 
 
 ### How to do this
 
-*   Reread the [basic grading contract](https://github.com/drewloewe/grading-contract/blob/master/grading-contract-Summer19-and-later.md) so that you understand the approach that this course uses. 
-*   Open the Canvas gradebook and see what I have entered as your grades so far for work that has been completed. (Make sure that you reread the grading contract's sections that describe the compromises forced on us by the shortcomings of Canvas's lousy gradebook so you can truly understand what the grades mean.) This will be only a snapshot at this point, because you will have projects and activities upcoming, and projects may be pending revision. 
+*   Reread the [grading system](https://github.com/drewloewe/Grading-System/blob/master/grading-system.md) so that you understand the approach that this course uses. 
+*   Open the Canvas gradebook and see what I have entered as your grades so far for work that has been completed. The gradebook is only a snapshot at this point, because you will have projects and activities upcoming, and projects may be pending revision. 
 *  In F2F courses, view your attendance information in Canvas. In online courses, examine your activity and logins in Canvas.
 *  Beyond just reviewing grades and attendance, **reread feedback I have given you on projects, as well as the assignments themselves**.
 Make notes on what you observe in those rereadings.
@@ -35,7 +35,7 @@ Please answer all of these questions in one paragraph per section, using these s
 **2. Performance** 
 
 * Have you completed all the assignments and done all the quizzes and activities? 
-* How has your performance been so far? Are you on track to earn a B under the basic contract? 
+* How has your performance been so far? 
 * How, if at all, have you improved as a writer so far? 
 * What specific strategies have you used to find a way through confusion, hang-ups, procrastination, your workload and life outside of class, lack of experience, or unfamiliarity with the work? These might include using the Writing Center, coming to my office, asking me questions, and other strategies too numerous to name here. 
 
@@ -43,7 +43,7 @@ Please answer all of these questions in one paragraph per section, using these s
 **3. Ownership of Learning**
 
 *   Have you been coming to class regularly, on time, and prepared? Have you taken proactive steps to avoid distractions, such as social media or texting (except for emergencies) during class time (in F2F classes) or work time? If so, how consistent were you? Have you found ways to improve so far?
-*   Have you made specific note of any problems and questions and shared them?
+* How have you used the feedback and advice that you have been given?
 * Have you sought guidance outside of the classroom (office/videoconference visits, Writing Center, other)? If so, what, and how consistently? How has that helped, or not? If you have not been seeking help outside of class, what is your plan for doing so in the rest of the course?
 * Which specific areas do you want to improve on in this class?
 * What is your concrete, specific plan to improve in those areas during the rest of the class?
