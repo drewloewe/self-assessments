@@ -8,9 +8,9 @@ This final self-assessment lets us (you, the student; me, the teacher) "check in
 
 ### How to do this
 
-*	Reread the [basic grading contract](https://github.com/drewloewe/grading-contract/blob/master/grading-contract-Summer19-and-later.md).
+*	Reread the [grading system](https://github.com/drewloewe/Grading-System/blob/master/grading-system.md).
 * Reread your midterm self-assessment.
-* 	Open the Canvas gradebook and see what I have entered as your grades so far. This work includes major written assignments, peer review, quizzes, activities, etc. It will also include assignments that are still eligible for revision, so it is still a snapshot.
+* 	Open the Canvas gradebook and see what I have entered as your grades so far. This work includes major written assignments, peer review, quizzes, activities, etc. It will also include assignments that are still eligible for revision, so it is still a snapshot, though a more filled-in snapshot than before.
 * In F2F courses, [view your attendance information in Canvas](https://guides.instructure.com/m/4212/l/643081-how-do-i-view-my-roll-call-attendance-report-as-a-student).
 *  Beyond just reviewing grades and attendance, reread feedback I have given you on projects, as well as on the assignments themselves.
 *  Make notes on what you observe. **A self-assessment that ignores the feedback I have given gets a guaranteed "below-spec" grade.**
@@ -35,7 +35,7 @@ This final self-assessment lets us (you, the student; me, the teacher) "check in
 **2. Required: Performance** 
 
 *	Did you complete all the assignments and do all the quizzes and activities? 
-* How was your performance? Did you meet the expectations for a B under the basic contract? Exceed them? 
+* How was your performance? 
 * How, if at all, did you improve as a writer, thinker, editor, analyst, researcher, or arguer? 
 * What specific strategies did you use to find a way through confusion, hang-ups, procrastination, your workload and life outside of class, lack of experience, or unfamiliarity with the work?
 
@@ -43,7 +43,7 @@ This final self-assessment lets us (you, the student; me, the teacher) "check in
 **3. Required: Ownership of Learning**
 
 *	Did you come to class prepared (F2F classes) and participate (all classes) regularly? If so, how consistent were you? Did you find ways to improve in this way?
-*	Did you made specific notes about problems and questions and bring them to class to share (F2F classes)/share them electronically (online classes)?
+*	How did you use feedback and advice?
 * Did you seek guidance outside of the classroom (office visits, Zoom hours, Writing Center, other)? If so, what, and how consistently? How did that help (or not help)? If not, why not?
 * Which specific areas did you want to improve on in this class?
 * What was your concrete, specific plan to improve in those areas during the second half of the class? How did you do in carrying out that plan?
@@ -53,9 +53,9 @@ This final self-assessment lets us (you, the student; me, the teacher) "check in
 
 Here, you may make a reasonable, supported argument to me about what overall course grade you believe is warranted. I do want to hear from you since I try to defer ultimate assigning of a course grade until I have all the evidence and your input as a grownup.
 
-Argue for a particular overall course grade and *support your arguments*. Just stating a general wish for a certain grade or identifying as a certain kind of student who usually receives X type of grade are not arguments. But you get to give an informed opinion as a grownup. I will consider your supported arguments (I am not bound by them, but I will at least consider them, if supported).
+Argue for a particular overall course grade and *support your arguments*. Just stating a general wish for a certain grade or identifying as a certain kind of student who usually receives X type of grade are not arguments. But you do get to give an informed opinion as a grownup. 
 
-I am not bound by your arguments, but I will consider them if they are supported. Here, argument = reasonable claim + sufficient evidence + warranted inferences. Wishes, mere pleas, and schmoozing are not arguments. This is your chance to show me the full picture beyond my own recollections, comments, and gradebook and to use the in-between grades meaningfully. Make this section, if you choose to submit it, work hand-in-hand with the rest of the final self-assessment. I cannot promise you a specific grade, but I can promise you that I will at least listen to well-supported arguments.
+I am not bound by your arguments, but I will consider them if they are supported. Here, **argument = reasonable claim + sufficient evidence + warranted inferences.** Wishes, pleas, and schmoozing are not arguments. This is your chance to show me the full picture beyond my own recollections, comments, and gradebook and to use the in-between grades meaningfully. Make this section, if you choose to submit it, work hand-in-hand with the rest of the final self-assessment. I cannot promise you a specific grade, but I can promise you that I will at least listen to well-supported arguments.
 
 ### Specifications
 
