@@ -42,7 +42,7 @@ Please answer all of these questions in one paragraph per section, using these s
 
 **3. Ownership of Learning**
 
-*   Have you been coming to class regularly, on time, and prepared? Have you taken proactive steps to avoid distractions, such as social media or texting (except for emergencies) during class time (in F2F classes) or work time? If so, how consistent were you? Have you found ways to improve so far?
+*   Have you been coming to class regularly, on time, and prepared? Have you taken proactive steps to avoid distractions, such as social media or texting (except for emergencies) during class time (in F2F classes) or work time? NB: some students in some SP20 classes so far have spent large portions of class time looking at their phones--maybe for a legitimate reason, maybe not. Have you found ways to improve in your ownership of learning so far?
 * How have you used the feedback and advice that you have been given?
 * Have you sought guidance outside of the classroom (office/videoconference visits, Writing Center, other)? If so, what, and how consistently? How has that helped, or not? If you have not been seeking help outside of class, what is your plan for doing so in the rest of the course?
 * Which specific areas do you want to improve on in this class?
