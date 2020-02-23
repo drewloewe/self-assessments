@@ -11,11 +11,10 @@ This midterm self-assessment lets us (you, the student; me, the teacher) "check 
 
 ### How to do this
 
-*   Reread the [grading system](https://github.com/drewloewe/Grading-System/blob/master/grading-system.md) so that you understand the approach that this course uses. 
+*   Reread the [grading system](https://github.com/drewloewe/Grading-System/blob/master/grading-system.md) so that you understand the approach that this course uses (labor and performance). 
 *   Open the Canvas gradebook and see what I have entered as your grades so far for work that has been completed. The gradebook is only a snapshot at this point, because you will have projects and activities upcoming, and projects may be pending revision. 
 *  In F2F courses, view your attendance information in Canvas. In online courses, examine your activity and logins in Canvas.
-*  Beyond just reviewing grades and attendance, **reread feedback I have given you on projects, as well as the assignments themselves**.
-Make notes on what you observe in those rereadings.
+*  Beyond just reviewing grades and attendance, **reread feedback I have given you on projects and other work, as well as the assignments themselves**. Make notes on what you observe in those rereadings.
 *  Reflect on your approach to the course and your performance so far. Are you meeting your goals? Exceeding them? Not meeting them? What have you done so far and what might you do differently?
 *  Then, answer the questions of this self-assessment assignment as fully and honestly as you can. **Remember the power of specific pointing phrases such as "For example,...", In particular,...", "What stands out the most is...", and the like.** Specifics count.
 *  You'll need about 300 words per paragraph (so, about 900 words total) to do this project completely yet concisely.
@@ -32,9 +31,9 @@ Please answer all of these questions in one paragraph per section, using these s
 *   How has your approach to the course so far helped you learn what you expected to learn and achieve your goals?
 
 
-**2. Performance** 
+**2. Performance and Labor** 
 
-* Have you completed all the assignments and done all the quizzes and activities? 
+* Have you completed all the assignments and activities and done all the quizzes? 
 * How has your performance been so far? 
 * How, if at all, have you improved as a writer so far? 
 * What specific strategies have you used to find a way through confusion, hang-ups, procrastination, your workload and life outside of class, lack of experience, or unfamiliarity with the work? These might include using the Writing Center, coming to my office, asking me questions, and other strategies too numerous to name here. 
@@ -42,7 +41,8 @@ Please answer all of these questions in one paragraph per section, using these s
 
 **3. Ownership of Learning**
 
-*   Have you been coming to class regularly, on time, and prepared? Have you taken proactive steps to avoid distractions, such as social media or texting (except for emergencies) during class time (in F2F classes) or work time? NB: some students in some SP20 classes so far have spent large portions of class time looking at their phones--maybe for a legitimate reason, maybe not. Have you found ways to improve in your ownership of learning so far?
+*   Have you been coming to class regularly, on time, and prepared? Have you taken proactive steps to avoid distractions, such as social media or texting (except for emergencies) during class time (in F2F classes) or work time? NB: some students in some SP20 classes so far have spent large portions of class time looking at their phones--maybe for a legitimate reason, maybe not. 
+* Have you found ways to improve in your ownership of learning so far?
 * How have you used the feedback and advice that you have been given?
 * Have you sought guidance outside of the classroom (office/videoconference visits, Writing Center, other)? If so, what, and how consistently? How has that helped, or not? If you have not been seeking help outside of class, what is your plan for doing so in the rest of the course?
 * Which specific areas do you want to improve on in this class?
